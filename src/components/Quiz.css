@@ -4,7 +4,7 @@
 }
 .quiz{
     height: 100vh;
-    background-image: url('kbc-game/src/Assests/bg.jpg');
+    background-image: url('kbc-game/src/Assests/bg.JPG');
     background-size: cover;
     background-position: center;
     display: flex;
